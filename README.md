@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vitor Santos Oliveira</h1>
 <h2 align="center">Full stack developer junior</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GITVitorSantosOliveira&label=Profile%20views&color=0e75b6&style=flat" alt="GITVitorSantosOliveira" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vitor-SO&label=Profile%20views&color=0e75b6&style=flat" alt="Vitor-SO" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GITVitorSantosOliveira" alt="GITVitorSantosOliveira" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vitor-SO" alt="Vitor-SO" /></a> </p>
 
 - 🔭 I’m currently studying ReactJs, React Native and Nodejs
 
