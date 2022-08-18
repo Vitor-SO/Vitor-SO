@@ -19,7 +19,7 @@
 </p>
 
 <h2> Git hub status <h2/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GITVitorSantosOliveira&show_icons=true&locale=en&layout=compact" alt="GITVitorSantosOliveira" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vitor-SO&show_icons=true&locale=en&layout=compact" alt="Vitor-SO" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GITVitorSantosOliveira&show_icons=true&locale=en" alt="GITVitorSantosOliveira" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vitor-SO&show_icons=true&locale=en" alt="Vitor-SO" /></p>
 
